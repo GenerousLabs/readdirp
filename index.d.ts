@@ -1,7 +1,5 @@
 // TypeScript Version: 3.2
 
-/// <reference types="node" lib="esnext" />
-
 import * as fs from 'fs';
 import { Readable } from 'stream';
 
